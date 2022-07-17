@@ -1,2 +1,2 @@
-# Gerador-de-Promo-es
+# Gerador de Promoções
 Software em desenvolvimento destinado a criação de promoções.
